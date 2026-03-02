@@ -50,4 +50,7 @@ flex-direction: column;
 
 }input{
     text-align: center;
+}.App{
+    margin: 0%;
+    padding: 0%;
 }
