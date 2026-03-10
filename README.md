@@ -16,8 +16,9 @@ The topices the react js I  use [use state, feacting method ].
  --
 ## usage
 ---
-Bascially this application finding definations of a word .
-the application can useful for everyone .
+Bascially this application finding definations of a word.
+the application can useful for everyone.
+
 ---
 ## how to run programme
 - copy the git clone
@@ -49,3 +50,4 @@ how to render the data in UI from feacted API ./ I use API from dictionary apis 
 
 ---
  
+
