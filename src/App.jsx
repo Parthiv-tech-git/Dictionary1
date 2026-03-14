@@ -82,7 +82,7 @@ setPa(defi)
       <div className="sreach">
         <h1>simple dictionary </h1>
         
-    <input type="text" placeholder='enter your word'  onChange={(e)=>setWord(e.target.value)} value={word} />
+    <input type="search" placeholder='enter your word'  onChange={(e)=>setWord(e.target.value)} value={word} />
     <button onClick={check}>serach</button>
    
         </div>
